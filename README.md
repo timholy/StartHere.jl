@@ -25,7 +25,7 @@ Hello, I have started this document as a handy glossary to point to for beginner
 | REPL | Read Evaluate Print Loop, also known as that terminal / dark window when you open up Julia for the first time. Very useful for experimenting with you Julia codes. |
 | TIL                 | Today I Learned |
 | GC                  | Garbage Collector. An algorithm that helps manage the memory needed for Julia to run. |
-| LLVM                | Julia's compiler. As a beginner, its enough to know that a compiler takes code, transforms it, and ideally makes it faster. |
+| LLVM                | Part of Julia's compiler. As a beginner, its enough to know that a compiler takes code written in a specific programming language and transforms it into the native machine instructions needed by your hardware. The quality of the compiler can have a big impact on the speed of your code. |
 | GSOC                | Google Summer of Code. Happens once a year in June - August. Google pays students to code in Julia |
 | COC                 | Julia's Code of Conduct. |
 | Slack               | An online chatting forum that permits talking in different #channels, with emojis and some code formatting. Messages get auto deleted after a while. |
